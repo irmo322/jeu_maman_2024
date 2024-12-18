@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+
+<style>
+div.center {text-align: center;}
+</style>
+
+<body style="background-color:black;">
+
+<div class="center">
+<video id="myVideo" width="540" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+</div>
+
+
+<script>
+let video = document.getElementById("myVideo");
+video.onended = function() {
+  // alert("The video has ended");
+  window.location.replace("/chap3_gtfplrmd/jeu_maman_20241218_chap3_v1/jeu_maman");
+};
+</script>
+
+</body> 
+</html>
