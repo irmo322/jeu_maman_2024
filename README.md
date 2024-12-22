@@ -6,3 +6,4 @@
 - https://irmo322.github.io/jeu_maman_2024/chap3_gtfplrmd/en%20retard%20!/
 - https://irmo322.github.io/jeu_maman_2024/chap3_gtfplrmd/encore%20en%20retard%20!/
 - https://irmo322.github.io/jeu_maman_2024/chap3_gtfplrmd/la%20magie%20à%20la%20rescousse/
+- https://irmo322.github.io/jeu_maman_2024/chap3p5_goepqkel/jeu_maman_20241222_chap3p5_v1/jeu_maman
